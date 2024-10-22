@@ -1,0 +1,11 @@
+div{display: flex;
+    flex-direction: column;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    align-content: center;
+    border: 1px solid red;
+    margin: 5px;
+    }
+img{position:sticky;width: 300px;}
+button{height: 50px;}
+#parent{background-color: rgba(212, 248, 8, 0.452);}
